@@ -102,8 +102,7 @@ Through the dashboard and analysis, I derived insights into:
 - Driver performance trends
 - Peak order periods
 - Opportunities to reduce costs and improve Service
-
-- ### Recommendations
+### Recommendations
 I documented the entire process and provided actionable recommendations to:
 - Optimise driver allocation
 - Improve customer communication
