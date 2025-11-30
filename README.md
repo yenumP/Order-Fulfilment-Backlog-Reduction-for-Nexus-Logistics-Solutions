@@ -12,7 +12,8 @@
 This project aims to analyse and improve the order fulfilment process at Nexus Logistics Solutions, a major logistics provider currently experiencing rising delivery backlogs, reduced customer visibility, and increasing operational costs. Using Microsoft Excel, the project develops an interactive dashboard to identify bottlenecks, monitor order progress, and support data-driven decision-making.
 Through this analysis, the project seeks to enhance delivery efficiency, optimise resource allocation, reduce delays, and improve customer satisfaction while restoring the company’s strong reputation for reliable service.
 
-<img width="1817" height="923" alt="image" src="https://github.com/user-attachments/assets/ad4cbbc6-b11f-486c-a4c0-80751efe06a8" />
+<img width="1703" height="838" alt="image" src="https://github.com/user-attachments/assets/826be85f-c894-4649-a593-77167c54f24f" />
+
 
 
 
